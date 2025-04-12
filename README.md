@@ -56,7 +56,7 @@ adb shell settings put global http_proxy 192.168.29.2:8080
  adb shell chmod 644 /system/etc/security/cacerts/9a5ba575.0
  adb reboot
  
-### 🛡️ [Add SSL Pinning]
+### 🛡️ Get Public Key Fingerprint of API:
 for get https://jsonplaceholder.typicode.com/ certificate fingerprint: 
 ```bash
 openssl x509 -in jsonplaceholder.crt -noout -pubkey | openssl pkey -pubin -outform DER | openssl dgst -sha256 -binary | openssl enc -base64
