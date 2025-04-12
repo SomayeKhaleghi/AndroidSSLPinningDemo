@@ -4,9 +4,6 @@
 
 This is a demo Android application built with **Kotlin** that demonstrates how to protect your app from **Man-in-the-Middle (MITM)** attacks using **SSL Pinning**.
 
-## 📹 YouTube Video
-
-🎥 **Watch the full tutorial on YouTube**: [How to Implement SSL Pinning in Android](https://youtu.be/8Es4C6RUbXk)
 ## 🚀 Features
 
 - Retrofit-based networking
@@ -27,9 +24,9 @@ This is a demo Android application built with **Kotlin** that demonstrates how t
 
 ## 📦 How to Run
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/SomayeKhaleghi/AndroidSSLPinningDemo.git
+## 📹 YouTube Video
+
+🎥 **Watch the full tutorial on YouTube**: [How to Implement SSL Pinning in Android](https://youtu.be/8Es4C6RUbXk)
 
 
 ## 🔧 Shell Commands Used in This Demo
