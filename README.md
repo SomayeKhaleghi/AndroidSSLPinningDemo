@@ -30,4 +30,4 @@ Watch the full step-by-step video here 👉 [Insert YouTube Link]
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/android-ssl-pinning-demo.git
+   git clone https://github.com/SomayeKhaleghi/AndroidSSLPinningDemo.git
